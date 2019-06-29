@@ -1,3 +1,4 @@
+
 # Exploration of ML Explainability Methods on the Statlog (Heart) Data Set
 
 The goal of this repository is to explore various Explainable AI (XAI) methods on models trained on an classification task on the [UCI ML - Statlog
@@ -47,6 +48,6 @@ Uses 3-Fold cross validation to train three different classifiers and compares t
 Compares the explanations listed above between the original classifier and one that has been adapted to perform worse.
 
 ## Credits
-This repository contains a modified version of the [ALEPython](https://github.com/blent-ai/ALEPython) library
+This repository contains a modified version of [ALEPython](https://github.com/blent-ai/ALEPython).
 
 
