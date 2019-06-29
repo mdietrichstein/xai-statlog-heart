@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/194396235.svg)](https://zenodo.org/badge/latestdoi/194396235)
 
 # Exploration of ML Explainability Methods on the Statlog (Heart) Data Set
 
