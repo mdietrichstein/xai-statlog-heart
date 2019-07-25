@@ -17,7 +17,7 @@ The goal of this repository is to explore various Explainable AI (XAI) methods o
 
 1. Build the docker image: `docker build -t xai-statlog-heart .`
 2. Run the image: `docker run -p 8888:8888 xai-statlog-heart`
-4. Open the url shown in the output of the previous command in your webbrowser
+3. Open the url shown in the output of the previous command in your webbrowser
 
 ## Notebooks
 
@@ -33,7 +33,7 @@ Running this notebook transforms the original dataset (`data/raw/heart.dat`) int
 
 **03-classifier_evaluation.ipynb**
 
-Here we evaluate different classification algirithms on the dataset and chose the three best performing to create an ensemble classifier which is used in the remaining two notebooks.
+Here we evaluate different classification algorithms on the dataset and chose the three best performing to create an ensemble classifier which is used in the remaining two notebooks.
 
 **04-fold_interpretation.ipynb**
 
